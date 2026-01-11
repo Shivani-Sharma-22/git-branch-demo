@@ -1,4 +1,4 @@
-hello this is the feature one
+hello this is the feature one + bugfix1
 this is feature 2
 this is feature 3
 4. feature4
