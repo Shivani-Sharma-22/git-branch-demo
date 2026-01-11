@@ -1,3 +1,4 @@
 hello this is the feature one + bugfix1
 this is feature 2
 this is feature 3
+bugfix2
